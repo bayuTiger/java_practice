@@ -1,2 +1,6 @@
 # java_practice
-様々なjavaの練習問題を解く
+
+## data-lecture feature/#0001
+
+- DBの概要と正規化について
+- 基本的なSQL

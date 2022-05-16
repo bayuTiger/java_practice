@@ -33,7 +33,7 @@
 
 - カラムの追加
   - ALTER TABLE tbl_name
-  `ADD [COLUMN] col_name column_definitio [FIRST | AFTER col_name]`
+  `ADD [COLUMN] col_name column_definition [FIRST | AFTER col_name]`
 
 ## 検索条件
 

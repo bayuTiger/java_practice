@@ -1,3 +1,5 @@
+package exercise;
+
 public class Kuku {
   public static void main(String[] args){
     for (int i = 1; i <= 9; i++) {

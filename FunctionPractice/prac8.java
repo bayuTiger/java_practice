@@ -1,4 +1,4 @@
-package func_practice;
+package FunctionPractice;
 
 import java.util.HashMap;
 import java.util.Map;
